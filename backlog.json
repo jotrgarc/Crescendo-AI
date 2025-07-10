@@ -1,0 +1,170 @@
+[
+  {
+    "epic": "User Authentication & Profile Management",
+    "id": "US1.1",
+    "title": "User account creation",
+    "description": "As a user, I want to create an account so I can save my arrangements.",
+    "priority": "Must Have",
+    "status": "Backlog"
+  },
+  {
+    "epic": "User Authentication & Profile Management",
+    "id": "US1.2",
+    "title": "Secure login",
+    "description": "As a user, I want to log in securely so my data is protected.",
+    "priority": "Must Have",
+    "status": "Backlog"
+  },
+  {
+    "epic": "User Authentication & Profile Management",
+    "id": "US1.3",
+    "title": "Instrument and level setup",
+    "description": "As a student, I want to select my instrument and skill level so arrangements are tailored to me.",
+    "priority": "Must Have",
+    "status": "Backlog"
+  },
+  {
+    "epic": "Sheet Music Upload & Processing",
+    "id": "US2.1",
+    "title": "Upload sheet music",
+    "description": "As a user, I want to upload PDF or MusicXML files so I can adapt them to my level.",
+    "priority": "Must Have",
+    "status": "Backlog"
+  },
+  {
+    "epic": "Sheet Music Upload & Processing",
+    "id": "US2.2",
+    "title": "Upload confirmation",
+    "description": "As a user, I want to see a confirmation that the file was uploaded successfully.",
+    "priority": "Must Have",
+    "status": "Backlog"
+  },
+  {
+    "epic": "Sheet Music Upload & Processing",
+    "id": "US2.3",
+    "title": "Preview original sheet music",
+    "description": "As a user, I want to preview the original sheet music after upload.",
+    "priority": "Should Have",
+    "status": "Backlog"
+  },
+  {
+    "epic": "AI-Powered Arrangement Engine",
+    "id": "US3.1",
+    "title": "Select target level",
+    "description": "As a student, I want to select a difficulty level so the arrangement suits my skills.",
+    "priority": "Must Have",
+    "status": "Backlog"
+  },
+  {
+    "epic": "AI-Powered Arrangement Engine",
+    "id": "US3.2",
+    "title": "Choose arrangement mode",
+    "description": "As a user, I want to choose between simplification or practice mode so I can tailor the output to my goal.",
+    "priority": "Must Have",
+    "status": "Backlog"
+  },
+  {
+    "epic": "AI-Powered Arrangement Engine",
+    "id": "US3.3",
+    "title": "Receive simplified version",
+    "description": "As a user, I want to receive a simplified version of my uploaded music that matches my selected level.",
+    "priority": "Must Have",
+    "status": "Backlog"
+  },
+  {
+    "epic": "AI-Powered Arrangement Engine",
+    "id": "US3.4",
+    "title": "Preserve musical style",
+    "description": "As a user, I want the output to maintain the style of the original music.",
+    "priority": "Should Have",
+    "status": "Backlog"
+  },
+  {
+    "epic": "AI-Powered Arrangement Engine",
+    "id": "US3.5",
+    "title": "Download arranged sheet music",
+    "description": "As a user, I want to download the new sheet music as a PDF or MusicXML.",
+    "priority": "Must Have",
+    "status": "Backlog"
+  },
+  {
+    "epic": "Audio Playback & Practice Tools",
+    "id": "US4.1",
+    "title": "Playback arrangement",
+    "description": "As a student, I want to listen to the adapted arrangement so I can hear how it should sound.",
+    "priority": "Must Have",
+    "status": "Backlog"
+  },
+  {
+    "epic": "Audio Playback & Practice Tools",
+    "id": "US4.2",
+    "title": "Visual follow-along",
+    "description": "As a user, I want to follow along visually as the sheet music plays back.",
+    "priority": "Should Have",
+    "status": "Backlog"
+  },
+  {
+    "epic": "Audio Playback & Practice Tools",
+    "id": "US4.3",
+    "title": "Adjust playback speed",
+    "description": "As a student, I want to adjust playback speed so I can practice slowly.",
+    "priority": "Could Have",
+    "status": "Backlog"
+  },
+  {
+    "epic": "Saved Arrangements & History",
+    "id": "US5.1",
+    "title": "View saved arrangements",
+    "description": "As a user, I want to see a library of my adapted arrangements so I can revisit them later.",
+    "priority": "Must Have",
+    "status": "Backlog"
+  },
+  {
+    "epic": "Saved Arrangements & History",
+    "id": "US5.2",
+    "title": "Rename or delete arrangements",
+    "description": "As a user, I want to rename or delete saved arrangements.",
+    "priority": "Should Have",
+    "status": "Backlog"
+  },
+  {
+    "epic": "Saved Arrangements & History",
+    "id": "US5.3",
+    "title": "Duplicate arrangements at new level",
+    "description": "As a user, I want to duplicate a past arrangement with a different difficulty level.",
+    "priority": "Could Have",
+    "status": "Backlog"
+  },
+  {
+    "epic": "Feedback & Ratings",
+    "id": "US6.1",
+    "title": "Rate arrangements",
+    "description": "As a user, I want to rate how helpful an arrangement was so the system can improve.",
+    "priority": "Must Have",
+    "status": "Backlog"
+  },
+  {
+    "epic": "Feedback & Ratings",
+    "id": "US6.2",
+    "title": "Leave comments",
+    "description": "As a user, I want to leave comments on my experience.",
+    "priority": "Could Have",
+    "status": "Backlog"
+  },
+  {
+    "epic": "Admin & Infrastructure",
+    "id": "US7.2",
+    "title": "File validation",
+    "description": "As a system, I want to validate file types and size limits.",
+    "priority": "Must Have",
+    "status": "Backlog"
+  },
+  {
+    "epic": "Admin & Infrastructure",
+    "id": "US7.3",
+    "title": "Notify on file parse error",
+    "description": "As a system, I want to notify the user if file parsing fails.",
+    "priority": "Must Have",
+    "status": "Backlog"
+  }
+]
